@@ -1,0 +1,266 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.topo{
+  width:66%;
+  padding-left:17%;
+  padding-right:17%;
+  height:16%;
+  background:#137b25;
+  border-bottom: solid 1.8em #00420c;
+  box-shadow: #00420c ;
+  
+  
+}
+nav{
+  width: 60%;
+  height:20%;
+  margin-right: 40%;
+}
+nav ul{
+  text-decoration: none;
+}
+nav ul li{
+  display:list-item;
+  margin:1em;
+  color:#fff;
+  display:inline-block;
+  margin:1em;
+  font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
+ 
+  
+ 
+}
+nav ul li a{
+  color:#fff;
+   font-size:1em;
+}
+.header a:link, a:visited, a:active {
+  text-decoration: none;
+  color:#fff;
+}
+.nav a:link, a:visited, a:active {
+  text-decoration: none;
+  color:black;
+}
+a.link2:link{
+  color:black;
+  text-decoration:none;
+}
+a.link2:visited{
+  color:black;
+  text-decoration:none;
+  
+}
+a.link2:hover{
+  color:black;
+  text-decoration:underline;
+  
+}
+a.link2:active{
+color:black;
+text-decoration:underline;
+}
+
+.menu{
+  float:left;
+  
+}
+.menu ul{
+ 
+  
+}
+.menu ul li{
+  display:list-item;
+  margin:1em;
+  color:#fff;
+  display:inline-block;
+  margin:1em;
+  font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
+  
+  
+}
+.menu ul li a{
+  
+  color:#fff;
+  
+  
+  
+  
+  
+}
+.portal{
+  margin: 3px;
+  margin: 0 4px;
+  color: #fff;
+  font-size: 3em;
+  font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
+
+  line-height: 1em;
+
+}
+ a:link, a:visited, a:active {
+  text-decoration: none;
+  color:#fff;
+}
+.portal a:hover {
+  
+  color:#fff;
+}
+#pesquisafsm-caixa {
+  background: #eee; padding:6px; border:0 none; width:10%;
+  position:absolute;
+  top:4%;
+  left:74%;
+}
+#pesquisafsm-botao {
+  border: 1px solid #222;
+  color: #eee;
+  background: url(http://i.imgur.com/cz4sguf.png) no-repeat left ;
+  margin-left:10% ;
+  color:#fff;
+  font: 'trebuchet ms', trebuchet;
+  padding:10px 20px 10px 22px;
+  border:0 none;
+  font-weight:bold;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  position:absolute;
+  top:4%;
+}
+#pesquisafsm-botao:hover {
+  cursor: pointer;
+  background:  url(http://i.imgur.com/cz4sguf.png) no-repeat left ;
+}
+section{
+  
+  width: 66%;
+  margin-left:auto;
+  margin-right: auto;
+  
+  margin-bottom: 10px;
+ 
+  
+  
+  
+  
+  
+}
+
+h1{
+  color:#1a2a39;
+  font-size:3em;
+  font-family:verdana,Arial,sans serif;
+  text-align:center;
+  
+  
+}
+h3{
+  
+  color:#1a2a39;
+  font-size:1.3em;
+  font-family: :sans serif, Verdana,Arial;
+}
+p{
+  margin: 20px 3px 40px;
+  
+}
+.lista{
+  margin: 20px 3px 40px;
+  padding-left:22px;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.horarios{
+  text-align: center;
+  margin: 20px 4px 70px;
+  font-size: 1.5em
+}
+
+h4{
+  text-align: center;
+  font-size: 1.2em;
+  color: #1a2a39;
+  font-family: :sans serif, Verdana,Arial;
+}
+#celula1 {
+  width: 100px;
+  padding:10px;
+  width: 300px;
+  text-decoration: none;
+  
+  }
+  #celula1 a:link{
+    text-decoration:none;
+    color:black;
+  }
+  #celula2 {
+  width: 100px;
+  padding:10px;
+  width: 300px;
+  }
+  #celula2  {
+  text-decoration: none;
+  color:#ccc;
+}
+#celula1 a:hover {
+  
+  color:#ffff;
+}
+table, tr, td.disciplinas{
+  border: 2px solid green;
+   margin: auto;
+ 
+  border-collapse: collapse;
+  text-align:center;
+  font-size:16px;
+}
+#videos{
+display: inline;
+width: 66%;
+margin-left: 25%;
+margin-right: 25%;
+  
+  
+}
+#video_tutorial{
+  
+  display:inline;
+  width:66%;
+  
+  margin-left:25%;
+  margin-right:25%;
+  
+}
+footer{
+  position:relative;
+  bottom:0;
+  width:100%;
+  height:15%;
+  border-top:solid  0.1em   #034811;
+  box-shadow: 0 000.3em  #034811;
+  background-color:#034811;
+  
+  
+}
+
+footer p{
+  text-align:center;
+  padding:1em;
+  font: 15px sans serif;
+  color:#fff;
+  
+}
+footer p a{
+  text-decoration:none;
+  color:#ccc;
+  
+  
+}
