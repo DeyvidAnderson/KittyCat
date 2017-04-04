@@ -2,138 +2,105 @@
   margin:0;
   padding:0;
 }
-
 .topo{
   width:66%;
   padding-left:17%;
   padding-right:17%;
-  height:26%;
-  background:#137b25;
-  border-bottom: solid 1.8em #00420c;
-  box-shadow: #00420c ;
-  
-  
-}
-nav{
-  width: 60%;
   height:20%;
-  margin-right: 40%;
+  background:#137b25;
+  box-shadow: #00420c;
 }
-nav ul{
-  text-decoration: none;
-}
-nav ul li{
-  display:list-item;
-  margin:1em;
-  color:#fff;
-  display:inline-block;
-  margin:1em;
-  font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
- 
-  
- 
-}
-nav ul li a{
-  color:#fff;
-   font-size:1em;
-}
-.header a:link, a:visited, a:active {
-  text-decoration: none;
-  color:#fff;
-}
-.nav a:link, a:visited, a:active {
-  text-decoration: none;
-  color:black;
-}
-a.link2:link{
-  color:black;
-  text-decoration:none;
-}
-a.link2:visited{
-  color:black;
-  text-decoration:none;
-  
-}
-a.link2:hover{
-  color:black;
-  text-decoration:underline;
-  
-}
-a.link2:active{
-color:black;
-text-decoration:underline;
-}
-
 .menu{
-  float:left;
-  
+  color:#fff;
+  margin:0px;
+
 }
 .menu ul{
- 
+  
   
 }
 .menu ul li{
-  display:list-item;
-  margin:1em;
-  color:#fff;
-  display:inline-block;
-  margin:1em;
-  font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
-  
-  
+ display:list-item;
+ font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
+ color:#fff;
+ display:inline-block;
+
 }
-.menu ul li a{
-  
-  color:#fff;
-  
-  
-  
-  
-  
-}
+
+
 .portal{
-  margin: 3px;
+  margin: 17px;
   margin: 0 4px;
   color: #fff;
   font-size: 3em;
   font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
 
   line-height: 1em;
+  text-align:left;
+}
+a.link1:link{
+  color:black;
+  text-decoration:none;
+}
+a.link1:visited{
+  color:#fff;;
+  text-decoration:none;
+  
+}
+a.link1:hover{
+  color:#fff;
+  text-decoration:none;
+  
+}
+a.link1:active{
+color:#fff;
+text-decoration:none;
+}
+#opcoes {
+  width:66%;
+  padding-left:17%;
+  padding-right:17%;
+  list-style:none;
+  
+  float:left;
+  background:#00420c;
+}
+#opcoes ul li{
+position:relative; 
+float:left; 
+color:#fff;
+display:list-item;
+ font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
+ color:#fff;
+ display:inline-block;
 
 }
- a:link, a:visited, a:active {
-  text-decoration: none;
+#opcoes li a{
   color:#fff;
+   text-decoration:none; 
+   padding:5px 10px; 
+   display:block;
+  }
+#opcoes li a:hover{
+background:#00420c;; 
+color:#fff; 
+
+
 }
-.portal a:hover {
-  
-  color:#fff;
+#opcoes li  ul{
+position:absolute; 
+top:25px; 
+left:0;
+background-color:#00420c; 
+display:none;
+
 }
-#pesquisafsm-caixa {
-  background: #eee; padding:6px; border:0 none; width:10%;
-  position:absolute;
-  top:4%;
-  left:74%;
-}
-#pesquisafsm-botao {
-  border: 1px solid #222;
-  color: #eee;
-  background: url(http://i.imgur.com/cz4sguf.png) no-repeat left ;
-  margin-left:10% ;
-  color:#fff;
-  font: 'trebuchet ms', trebuchet;
-  padding:10px 20px 10px 22px;
-  border:0 none;
-  font-weight:bold;
-  border-top-right-radius: 7px;
-  border-bottom-right-radius: 7px;
-  position:absolute;
-  top:4%;
-}
-#pesquisafsm-botao:hover {
-  cursor: pointer;
-  background:  url(http://i.imgur.com/cz4sguf.png) no-repeat left ;
-}
+#opcoes li:hover ul, .menu li.over ul{display:block;}
+#opcoes  li ul li{
+border:1px solid #00420c;; 
+display:block; 
+width:150px;
+} 
 section{
   
   width: 66%;
@@ -222,24 +189,29 @@ table, tr, td.disciplinas{
   text-align:center;
   font-size:16px;
 }
-#videos{
-display: inline;
-width: 66%;
-margin-left: 25%;
-margin-right: 25%;
-  
+.materiais{
+  text-align: center;
+  font-size: 35px;
+}
+a.link2:link{
+  color:black;
+  text-decoration:none;
+}
+a.link2:visited{
+  color:black;
+  text-decoration:none;
   
 }
-#video_tutorial{
-  
-  display:inline;
-  width:66%;
-  
-  margin-left:25%;
-  margin-right:25%;
+a.link2:hover{
+  color:black;
+  text-decoration:underline;
   
 }
-footer{
+a.link2:active{
+color:black;
+text-decoration:underline;
+}
+#footer{
   position:relative;
   bottom:0;
   width:100%;
@@ -251,14 +223,14 @@ footer{
   
 }
 
-footer p{
+#footer p{
   text-align:center;
   padding:1em;
   font: 15px sans serif;
   color:#fff;
   
 }
-footer p a{
+#footer p a{
   text-decoration:none;
   color:#ccc;
   

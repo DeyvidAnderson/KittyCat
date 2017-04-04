@@ -1,0 +1,267 @@
+
+
+<html>
+   <head>
+      <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
+      <meta charset="UTF-8">
+      <link rel="stylesheet" type="text/css" href="style1.css">
+   </head>
+   <body>
+      <header class="topo">
+         <div class= "menu">
+            <ul>
+               <li>IFPE</li>
+               <h1 class ="portal" ><a  href="http://www.ifpe.edu.br" class ="link1">Instituto Federal  de Pernambuco</a></h1>
+               <li>Campus Igarassu</li>
+            </ul>
+         </div>
+        </header>
+        
+         <?php
+include("menu.php");
+?>
+        
+      <section>
+         <h1>Manual do Estudante</h1>
+         <h3>Matrícula</h3>
+         <p>O período da matrícula dos candidatos classificados em processo de seleção será publicado em edital especifico e a matrícula  será efetuada pela codernação
+            do registro acadêmico  dos campi equivalentes.Os candidatos classificados em processo de seleção serão matrículados  obrigatoriamente em todos os componentes
+            curriculares do módulo  e programado para o 1° período  letivo.
+         </p>
+         <h3>Trancamento de Matrícula</h3>
+         <p>O estudante regulamente matrículado no curso do IFPE será concedido o trancamento de matrícula do curso quando solicitado através de requerimento dirigido a Direção
+            de Ensino.O trancamento  de matrícula  deverá ser efetivado no período  definido  no calendário acadêmico de cada campus  , exceto  em casos excepcionais devidamente 
+            comprovados , a serem autorizados pela Direção de Ensino.O transcamentos de matrícula do curso ou de componente  curricular do estudante menor de idade  só poderá
+            ser realizado por seu responsável legal.O prazo concedido para o trancamento do curso  do IFPE de forma contínua ou alternada , não poderá ultrapassar 2(dois)anos.
+         </p>
+         <h3>Transfêrencia de Estudantes</h3>
+         <p>O IFPE expedirá a transferência  do estudante para outras instituições de ensino,mediante requerimento,em qualquer época do ano .A solicitação de transfrência deverá 
+            ser feita pelo estudante  maior de idade  ou pelo representante  legal do estudante menor de idade.
+         </p>
+         <h3>Da Integralização  ao Jubilamento</h3>
+         <p>O prazo minímo de Integralização  será estabelecido  no projeto pedagógico do curso  e o prazo máximo correspondente a 5(cinco)anos, conforme legislação vigente.<br>
+            O jubilamento  é o desligamento do estudante da Instituição por meio de recusaa da matrícula acadêmica do estudante no curso ao qual será vinculado.O jubilamento será
+            efetivado , quando o esgotado o prazi máximo de integralização do curso , conforme estabelecido pela legislação pertinentte e nos termos desta Organização Acadêmica.
+         </p>
+         <h3>Da Ausência Justificada</h3>
+         <p>Será permitida ao estudante requerer, por escrito no Registro Acadêmico e em um formulário próprio , justificativa de ausência em atividade acadêmca no prazo de 05(cinco)dias úteis após a data do afastamento desde que fique comprovado o impedimento do estudante por um dos seguintes motivos:</p>
+         <ol class="lista">
+            <li>Serviço militar;</li>
+            <li>Flecimento de parente em primeiro e segundo grau;</li>
+            <li>Licença gestação;</li>
+            <li>Doença</li>
+            <li>Internamento hospitalar;</li>
+            <li>Acompanhamento em internamento hospitalar do filho(a),cônjugue e genitor(a);</li>
+            <li>Convocação judicial;</li>
+            <li>Força maior.</li>
+         </ol>
+         <h3>Da Aprovação</h3>
+         <p>Estará bem aprovado no curso ,o estudante que obtiver frequência igual ou superior a 75%  em cada componente  curricular e média 6,0 (seis) em cada componente curricular que acompanha  a matriz do curso.</p>
+         <h3>Exames Finais</h3>
+         <p>Terá o direito de realizar o exame final o estudante  que obtiver , no mínimo  média 2,0(dois) e frequência igual ou superior a 75%  no cômputo de carga horária  total dos componentes curriculares.Será considerado aprovado , após os exames finais . o estudante  cuja média aritmética final for igual ou superior a 6,0(seis). </p>
+         <img src="http://i68.tinypic.com/29li7ti.jpg " align="center">
+         <div class="horarios">
+            <h3 clas="horarios">Horários</h3>
+         </div>
+         <h4>INFORMÁTICA 1°-TARDE-SALA 01</h4>
+         <br> 
+         <br>
+         <br>
+         <table  class="disciplinas" border="1">
+            <tr>
+               <th>HORÁRIO</th>
+               <th>SEGUNDA</th>
+               <th>TERÇA</th>
+               <th>QUARTA</th>
+               <th>QUINTA</th>
+               <th>SEXTA</th>
+            </tr>
+            <tr>
+               <td id="celula1">12:50h-13:35h</td>
+               <td id="celula1"><a href="seguranca.php"  class="link2">Segurança do Trabalho</a></td>
+               <td id="celula1"><a href="ingles.php"  class="link2">Inglês Instrumental</a></td>
+               <td id="celula1"><a href="fundamentos.php"  class="link2">Fundamentos da Informática</a></td>
+               <td id="celula1"> </td>
+               <td id="celula1"><a href="logica.php" class="link2">Lógica de Programação e <br>Estrutura de dados</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">13:35h-14:20h</td>
+               <td id="celula1"><a href="seguranca.php" class="link2">Segurança do Trabalho</a></td>
+               <td id="celula1"><a href="ingles.php" class="link2">Inglês Instrumental</a></td>
+               <td id="celula1"><a href="fundamentos.php" class="link2">Fundamentos da Informática</a></td>
+               <td id="celula1"><a href="matematica.php" class="link2">Matemática Aplicada</a></td>
+               <td id="celula1"><a href="logica.php" class="link2">Lógica de Programação e <br>Estrutura de dados</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">14:20h-15:05h</td>
+               <td id="celula1"><a href="redes.php" class="link2"> Redes de Computadores</a></td>
+               <td id="celula1"><a href="matematica.php" class="link2">Matemática Aplicada</a></td>
+               <td id="celula1"><a href="fundamentos.php" class="link2">Fundamentos da Informática</a></td>
+               <td id="celula1"> <a href="matematica.php" class="link2">Matemática Aplicada</a></td>
+               <td id="celula1"><a href="logica.php" class="link2">Lógica de Programação e <br>Estrutura de dados</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">15:25h-16:10h</td>
+               <td id="celula1"><a href="redes.php" class="link2"> Redes de Computadores</a></td>
+               <td id="celula1">Matemática-PROIFPE</td>
+               <td id="celula1"><a href="redes.php" class="link2"> Redes de Computadores</a></td>
+               <td id="celula1"><a href="portugues.php" class="link2">Português Instrumental</a> </td>
+               <td id="celula1"></td>
+            </tr>
+            <tr>
+               <td id="celula1">16:10h-16:55h</td>
+               <td id="celula1"></td>
+               <td id="celula1"><a href="logica.php" class="link2">Lógica de Programação e <br>Estrutura de dados</a></td>
+               <td id="celula1"><a href="redes.php" class="link2"> Redes de Computadores</a></td>
+               <td id="celula1"><a href="portugues.php" class="link2">Português Instrumental</a> </td>
+               <td id="celula1"><a href="matematica.php" class="link2">Matemática Aplicada</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">16:55h-17:40h</td>
+               <td id="celula1"></td>
+               <td id="celula1"><a href="logica.php" class="link2">Lógica de Programação e <br>Estrutura de dados</a></td>
+               <td id="celula1"></td>
+               <td id="celula1"> </td>
+               <td id="celula1"><a href="matematica.php" class="link2">Matemática Aplicada</a></td>
+            </tr>
+         </table>
+         <br> 
+         <br>
+         <br>
+         <h4>INFORMÁTICA 2°-MANHÃ-SALA 01</h4>
+         <br>
+         <br> 
+         <br>
+         <table  class="disciplinas" border="1">
+            <tr>
+               <th>HORÁRIO</th>
+               <th>SEGUNDA</th>
+               <th>TERÇA</th>
+               <th>QUARTA</th>
+               <th>QUINTA</th>
+               <th>SEXTA</th>
+            </tr>
+            <tr>
+               <td id="celula1">07:00h-07:45h</td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+            </tr>
+            <tr>
+               <td id="celula1">07:45h-08:30h</td>
+               <td id="celula1"></td>
+               <td id="celula1"><a href="desvolvimento1.php"  class="link2">Desenvolvimento Web I</a></td>
+               <td id="celula1"><a href="segurancasistemas.php" class="link2">Segurança de Sistemas <br>para Internet</a></td>
+               <td id="celula1"><a href="poo.php" class="link2" >Programação Orientada<br>à Objetos</a> </td>
+               <td id="celula1"></td>
+            </tr>
+            <tr>
+               <td id="celula1">08:30h-09:15h</td>
+               <td id="celula1"><a href="desvolvimento1.php"  class="link2">Desenvolvimento Web I</a></td>
+               <td id="celula1"><a href="desvolvimento1.php" class="link2">Desenvolvimento Web I</a></td>
+               <td id="celula1"><a href= "segurancasistemas.php" class="link2">Segurança de Sistemas <br>para Internet</a></td>
+               <td id="celula1"><a href="poo.php" class="link2" > Programação Orientada<br>à Objetos</a></td>
+               <td id="celula1"><a href="projeto1.php"  class="link2">Projeto e Prática I</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">09:15h-10:00h</td>
+               <td id="celula1"><a href="desenvolvimento1.php" class="link2" >Desenvolvimento Web I</a></td>
+               <td id="celula1"><a href="sistemas.php" class="link2" >Sistemas Operacionais</a></td>
+               <td id="celula1"><a href="segurancasistemas.php"  class="link2">Segurança de Sistemas <br>para Internet</a></td>
+               <td id="celula1"><a href="poo.php" class="link2" >Programação Orientada<br>à Objetos</a></td>
+               <td id="celula1"><a href= "projeto1.php" class="link2">Projeto e Prática I</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">10:20-11:05h</td>
+               <td id="celula1"><a href="banco.php" class="link2">Banco de Dados</a></td>
+               <td id="celula1"><a href="sistemas.php" class="link2">Sistemas Operacionais</a></td>
+               <td id="celula1"><a href="etica.php" class="link2">Ética Pofissional<br>e Cidadania</a></td>
+               <td id="celula1"><a href= "banco.php" class="link2">Banco de Dados </a></td>
+               <td id="celula1"><a href="projeto1.php" class="link2">Projeto e Prática I</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">11:05h-11:50h</td>
+               <td id="celula1"><a href="banco.php" class="link2">Banco de Dados</a></td>
+               <td id="celula1"><a href="sistema.php" class="link2">Sistemas Operacionais</a></td>
+               <td id="celula1"><a href="etica.php" class="link2">Ética Pofissional<br>e Cidadania</a></td>
+               <td id="celula1"><a href="banco.php" class="link2" >Banco de Dados</a> </td>
+               <td id="celula1"><a href="projeto1.php" class="link2" >Projeto e Prática I</a></td>
+            </tr>
+         </table>
+         <br> 
+         <br>
+         <br>
+         <h4>INFORMÁTICA 3°-TARDE-SALA 09</h4>
+         <br> 
+         <br>
+         <br>
+         <table  class="disciplinas" border="1">
+            <tr>
+               <th>HORÁRIO</th>
+               <th>SEGUNDA</th>
+               <th>TERÇA</th>
+               <th>QUARTA</th>
+               <th>QUINTA</th>
+               <th>SEXTA</th>
+            </tr>
+            <tr>
+               <td id="celula1">12:50h-13:35h</td>
+               <td id="celula1"><a href="Implantação e.php"  class="link2">Implantação e Administração<br> de Serviços Web </a></td>
+               <td id="celula1">
+                  <a href= "projeto2.php" class="link2">
+                  Projeto e Prática II</a>
+               </td>
+               <td id="celula1"><a href= "Implantação e.php" class="link2">Implantação e Administração<br> de Serviços Web </a></td>
+               <td id="celula1"><a href="engenharia.php" class="link2">Engenharia de Software</a></td>
+               <td id="celula1"></td>
+            </tr>
+            <tr>
+               <td id="celula1">13:35h-14:20h</td>
+               <td id="celula1"><a href= "Implantação e.php" class="link2">Implantação e Administração<br> de Serviços Web </a></td>
+               <td id="celula1"><a href="projeto2.php" class="link2" >Projeto e Prática II</a></td>
+               <td id="celula1"><a href="Implantação e.php"  class="link2">Implantação e Administração<br> de Serviços Web </a></td>
+               <td id="celula1"><a href="engenharia.php"  class="link2">Engenharia de Software</a> </td>
+               <td id="celula1"><a href="desenvolvimento2.php" class="link2" >Desenvolvimento Web II</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">14:20h-15:05h</td>
+               <td id="celula1"><a href="engenharia.php" class="link2" >Engenharia de Software</a></td>
+               <td id="celula1"><a href="interacao.php" class="link2">Interação Humano-Computador</a></td>
+               <td id="celula1"><a href="Implantação e.php" class="link2" >Implantação e Administração<br> de Serviços Web 	</a></td>
+               <td id="celula1"><a href="desenvolvimento2.php" class="link2">Desenvolvimento Web II</a></td>
+               <td id="celula1"><a href= "projeto2.php" class="link2">Projeto e Prática II</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">15:25h-16:10h</td>
+               <td id="celula1"><a href= "engenharia.php" class="link2">Engenharia de Software</a></td>
+               <td id="celula1"><a href= "interacao.php" class="link2">Interação Humano-Computador</a></td>
+               <td id="celula1"><a href="empreendedorismo.php"  class="link2">Empreendedorismo</a></td>
+               <td id="celula1"><a href="desenvolvimento2.php" class="link2" >Desenvolvimento Web II</a></td>
+               <td id="celula1"><a href= "projeto2.php" class="link2">Projeto e Prática II</a></td>
+            </tr>
+            <tr>
+               <td id="celula1">16:10h-16:55h</td>
+               <td id="celula1"></td>
+               <td id="celula1"><a href="interacao.php" class="link2">Interação Humano-Computador</a></td>
+               <td id="celula1"><a href="empreendedorismo.php" class="link2" >Empreendedorismo</a></td>
+               <td id="celula1"></td>
+               <td id="celula1"><a href= "projeto2.php" class="link2">Projeto e Prática II</td>
+            </tr>
+            <tr>
+               <td id="celula1">16:55h-17:40h</td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+               <td id="celula1"></td>
+               <td id="celula1"> </td>
+               <td id="celula1"><a href= "projeto2.php" class="link2">Projeto e Prática II</td>
+            </tr>
+         </table>
+      </section>
+      <?php
+      include("rodape.php");
+      ?>
+   </body>
+</html>
+
