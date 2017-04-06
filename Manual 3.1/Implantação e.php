@@ -24,7 +24,7 @@ include("menu.php");
          <h1>Implantação e
             Administração de Serviços Web
          </h1>
-         <table border="1">
+        <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Implantação e
                   Administração de Serviços Web 

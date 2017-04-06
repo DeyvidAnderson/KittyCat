@@ -22,7 +22,7 @@ include("menu.php");
 ?>
       <section>
          <h1>Desenvolvimento para Web I</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente CurricularDesenvolvimento para Web I </th>
                <th>Professor(a): Ranieri</th>

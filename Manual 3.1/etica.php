@@ -22,7 +22,7 @@ include("menu.php");
 ?>
       <section>
          <h1>Ética Profissional e Cidadania</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Ética Profissional e Cidadania</th>
                <th>Professor(a): Willyans</th>

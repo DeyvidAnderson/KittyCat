@@ -22,7 +22,7 @@ include("menu.php");
         
       <section>
          <h1>Projeto e prática 2 </h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Projeto e prática 2 </th>
                <th>Professor(a): Allan</th>

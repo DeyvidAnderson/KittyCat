@@ -109,7 +109,11 @@ section{
   
   margin-bottom: 10px;
  
-
+  
+  
+  
+  
+  
 }
 
 h1{
@@ -124,6 +128,12 @@ h3{
   
   color:#1a2a39;
   font-size:1.3em;
+  font-family: :sans serif, Verdana,Arial;
+}
+h2{
+  text-align: center;
+  color:#1a2a39;
+  font-size:2.5em;
   font-family: :sans serif, Verdana,Arial;
 }
 p{
@@ -152,16 +162,7 @@ h4{
   font-size: 1.2em;
   color: #1a2a39;
   font-family: :sans serif, Verdana,Arial;
-
 }
-
-h5{
-  text-align: center;
-  font-size: 1.2em;
-  color: #1a2a39;
-  font-family: :sans serif, Verdana,Arial;
-}
-
 #celula1 {
   width: 100px;
   padding:10px;
@@ -186,7 +187,7 @@ h5{
   
   color:#ffff;
 }
-table, tr, td.disciplinas{
+.disciplinas{
   border: 2px solid green;
    margin: auto;
  
@@ -194,6 +195,37 @@ table, tr, td.disciplinas{
   text-align:center;
   font-size:16px;
 }
+.conteudos_disciplinas{
+  border: 2px solid green;
+   margin: auto;
+ 
+  border-collapse: collapse;
+  text-align:center;
+  font-size:16px;
+  width: 66%;
+  margin-left:auto;
+  margin-right: auto;
+
+}
+
+
+#tabela2{
+
+border: 2px solid #fff;
+   margin: auto;
+
+ width: 66%;
+  margin-left:auto;
+  margin-right: auto;
+
+
+}
+.celula3{
+  width: 100px;
+  padding:10px;
+  width: 300px;
+}
+
 .materiais{
   text-align: center;
   font-size: 35px;

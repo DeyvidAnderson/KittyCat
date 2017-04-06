@@ -22,7 +22,7 @@ include("menu.php");
 ?>
       <section>
          <h1> Interação Humano-Computador</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular:Interação Humano-Computador </th>
                <th>Professor(a): Ranieri </th>

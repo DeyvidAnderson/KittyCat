@@ -21,7 +21,7 @@ include("menu.php");
 ?>
    <section>
       <h1>Empreendedorismo</h1>
-      <table border="1">
+     <table class="conteudos_disciplinas" border="1"  >
          <tr>
             <th> Componente Curricular: Empreendedorismo </th>
             <th>Professor(a):Raquel</th>

@@ -23,7 +23,7 @@ include("menu.php");
         
       <section>
          <h1>Programação Orientada a Objeto</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Programação Orientada a Objeto</th>
                <th>Professor(a): Ranieri</th>

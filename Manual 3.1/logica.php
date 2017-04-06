@@ -22,7 +22,7 @@ include("menu.php");
 ?>
       <section>
          <h1>Lógica de Programação e Estruturas de Dados</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Lógica de Programação e Estruturas de Dados </th>
                <th>Professor(a): Allan</th>

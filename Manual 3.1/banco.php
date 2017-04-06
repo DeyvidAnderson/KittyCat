@@ -21,7 +21,7 @@ include("menu.php");
 ?>
       <section>
          <h1>Banco de Dados</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular:Banco de Dados </th>
                <th>Professor(a): Milton</th>

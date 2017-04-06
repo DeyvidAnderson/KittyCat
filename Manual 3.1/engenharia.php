@@ -22,8 +22,8 @@ include("menu.php");
 ?>
       <section>
          <h1>Engenharia de Software</h1>
-         <table border="1">
-            <tr>
+       <table class="conteudos_disciplinas" border="1"  >
+          <tr>
                <th> Componente Curricular: Engenharia de Software </th>
                <th>Professor(a):Milton</th>
             </tr>

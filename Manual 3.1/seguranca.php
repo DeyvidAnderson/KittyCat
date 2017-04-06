@@ -23,7 +23,7 @@ include("menu.php");
         
       <section>
          <h1>Segurança do Trabalho</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Segurança do Trabalho </th>
                <th>Professor(a): Danubia</th>

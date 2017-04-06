@@ -19,16 +19,64 @@
 include("menu.php");
 ?>
 <section>
-   <h2 class="materiais">Lógica de Programação e Estrutura de dados</h2>
-   <br>
-   <br>
-   <table cellpadding="0" cellspacing="0" align="center" width="100%" height="100%">
-<tr>
-<td><iframe src="https://drive.google.com/open?id=0B-3_TsDjImY0Zjg1bDhZYU1faWU4N05uNHVJMUFZM3dCWDE0" width="600" height="780" style="border: none;"></iframe></td>
-<td><iframe src="https://drive.google.com/open?id=0B-3_TsDjImY0Zjg1bDhZYU1faWU4N05uNHVJMUFZM3dCWDE0" height="780" style="border: none;"></iframe></td>
-</tr> 
+<h2>Lógica de Programação e Estruturas de Dados</h2>
+<br>
+<br>
+<table id="tabela2"  cellspacing= "16" align="center">
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 01 Apresentação da Disciplina.pdf" width=700 height="350" ></iframe></td>
+      </tr>
+      <br>
+      <br>
+      <tr>
+      <td ><iframe src="materiais/Logica_Aula 02 Algortimos.pdf" width="700" height="350"  align="center" ></iframe></td>
+      </tr>
+      <tr>
+      <td><iframe src="materiais/Logica_Aula 03 Operadores, Tipos e Variaveis.pdf" width=700 height="350" align="center" ></iframe></td>
+      </tr>
+      <tr>
+      <td><iframe src="materiais/Logica_Aula 04  Execução Condicional.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 04  Execução Condicional.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 05 Operadores Lógicos.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 06 Laços.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 07 - PHP.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 08 Operadores, Tipos e Variaveis em PHP.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 09 - Execução Condicional em PHP.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 10 - Operadores Lógicos em Java.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+   <tr>
+      <td><iframe src="materiais/Logica_Aula 11 - Laços em PHP.pdf" width=700 height="350" ></iframe></td>
+   </tr>
+</table>
+
+<br>
+<br>
+<h2>Redes de computadores</h2>
+<br>
+<br>
+<table id="tabela2"  cellspacing= "16" align="center">
+	<tr>
+		
+		 <td><iframe src="materiais/REDES-A_odisseia_na_internet.pdf" width=700 height="350" ></iframe></td>
+	</tr>
 
 </table>
+
 </section>
  <?php
       include("rodape.php");

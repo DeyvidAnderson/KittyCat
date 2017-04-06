@@ -22,7 +22,7 @@ include("menu.php");
 ?>
       <section>
          <h1>Inglês Instrumental</h1>
-         <table border="1">
+         <table class="conteudos_disciplinas" border="1"  >
             <tr>
                <th> Componente Curricular: Inglês Instrumental</th>
                <th>Professor(a): Mari</th>
