@@ -109,11 +109,7 @@ section{
   
   margin-bottom: 10px;
  
-  
-  
-  
-  
-  
+
 }
 
 h1{
@@ -156,7 +152,16 @@ h4{
   font-size: 1.2em;
   color: #1a2a39;
   font-family: :sans serif, Verdana,Arial;
+
 }
+
+h5{
+  text-align: center;
+  font-size: 1.2em;
+  color: #1a2a39;
+  font-family: :sans serif, Verdana,Arial;
+}
+
 #celula1 {
   width: 100px;
   padding:10px;
