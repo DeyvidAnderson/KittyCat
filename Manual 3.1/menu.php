@@ -9,7 +9,8 @@ $menu_PRIMEIRO="<a href ='primeiro.php'>1° Perído</a>";
 $menu_SEGUNDO="<a href ='segundo.php'>2° Período</a>";
 $menu_TERCEIRO="<a href ='terceiro.php'>3° Período</a>";
 
-$menu_pesquisar = "<a href='pesquisar.php'>Pesquisar</a>";
+
+$menu_wiki="<a href='mediawiki'>Mediawiki</a>";
 
 $mostra_menus = "<div id='opcoes'><ul>
   
@@ -22,6 +23,7 @@ $mostra_menus = "<div id='opcoes'><ul>
 	                 <li>$menu_TERCEIRO</li>  
 	                 </li>                 
 	       		</ul>
+	       		<li>$menu_wiki</li>
 			
 		               
 

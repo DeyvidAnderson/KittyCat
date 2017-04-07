@@ -25,7 +25,7 @@ include("menu.php");
          <br>
          
 
-      <table class="videos" style="">
+      <table <table  class="disciplinas" border="1">
          <tr>
             <td>
                <iframe  width="500" height="300" src="https://www.youtube.com/embed/cDNEjoSqeBw"></iframe>
