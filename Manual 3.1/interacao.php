@@ -166,6 +166,12 @@ include("menu.php");
                </td>
             </tr>
          </table>
+         <br>
+
+           <h2>Materiais das Aulas</h2>
+
+          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina de Interação humano-computador
+         <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgOWNrZ0NsWWotOW8" class="link2">Clique Aqui</a></p>
       </section>
       <?php
       include("rodape.php");
