@@ -4,7 +4,7 @@
    <head>
       <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
       <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="style1.css">
+      <link rel="stylesheet" type="text/css" href="../css/style1.css">
    </head>
    <body>
       <header class="topo">
@@ -18,7 +18,7 @@
         </header>
         
          <?php
-include("menu.php");
+include("../menu.php");
 ?>
       <section>
          <h1>Lógica de Programação e Estruturas de Dados</h1>
@@ -128,7 +128,7 @@ include("menu.php");
          <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgdVdUTXBWenhlVFE" class="link2">Clique Aqui</a></p>
       </section>
        <?php
-      include("rodape.php");
+      include("../rodape.php");
       ?>
    </body>
 </html>

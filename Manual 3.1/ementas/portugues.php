@@ -3,7 +3,7 @@
    <head>
       <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
       <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="style1.css">
+      <link rel="stylesheet" type="text/css" href="../css/style1.css">
    </head>
    <body>
       <header class="topo">
@@ -17,7 +17,7 @@
         </header>
         
          <?php
-include("menu.php");
+include("../menu.php");
 ?>
         
       <section>
@@ -139,7 +139,7 @@ include("menu.php");
 
       </section>
      <?php
-      include("rodape.php");
+      include("../rodape.php");
       ?>
    </body>
 </html>

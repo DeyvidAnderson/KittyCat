@@ -4,7 +4,7 @@
    <head>
       <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
       <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="style1.css">
+      <link rel="stylesheet" type="text/css" href="../css/style1.css">
    </head>
    <body>
       <header class="topo">
@@ -16,10 +16,9 @@
             </ul>
          </div>
         </header>
-        
-         <?php
-include("menu.php");
-?>
+        <?php
+          include("../menu.php");
+         ?>
       <section>
          <h1>Desenvolvimento para Web I</h1>
          <table class="conteudos_disciplinas" border="1"  >
@@ -144,8 +143,9 @@ include("menu.php");
          <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgZUx6RXpsaEVKQ28" class="link2">Clique Aqui</a></p>
       </section>
        <?php
-  include("rodape.php");
-  ?>
+          include("../rodape.php");
+       ?>
+
    </body>
 </html>
 
