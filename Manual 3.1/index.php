@@ -195,7 +195,7 @@ include("menu.php");
                <td id="celula1"><a href="ementas/banco.php" class="link2">Banco de Dados</a></td>
                <td id="celula1"><a href="ementas/sistema.php" class="link2">Sistemas Operacionais</a></td>
                <td id="celula1"><a href="ementas/etica.php" class="link2">Ética Pofissional<br>e Cidadania</a></td>
-               <td id="celula1"><a href="ementas/ementas/banco.php" class="link2" >Banco de Dados</a> </td>
+               <td id="celula1"><a href="ementas/banco.php" class="link2" >Banco de Dados</a> </td>
                <td id="celula1"><a href="ementas/projeto1.php" class="link2" >Projeto e Prática I</a></td>
             </tr>
          </table>
@@ -217,7 +217,7 @@ include("menu.php");
             </tr>
             <tr>
                <td id="celula1">12:50h-13:35h</td>
-               <td id="celula1"><a href="Implantaçãoe.php"  class="link2">Implantação e Administração<br> de Serviços Web </a></td>
+               <td id="celula1"><a href="ementas/Implantaçãoe.php"  class="link2">Implantação e Administração<br> de Serviços Web </a></td>
                <td id="celula1">
                   <a href= "ementas/projeto2.php" class="link2">
                   Projeto e Prática II</a>
@@ -246,7 +246,7 @@ include("menu.php");
                <td id="celula1">15:25h-16:10h</td>
                <td id="celula1"><a href= "ementas/engenharia.php" class="link2">Engenharia de Software</a></td>
                <td id="celula1"><a href= "ementas/interacao.php" class="link2">Interação Humano-Computador</a></td>
-               <td id="celula1"><a href="empreendedorismo.php"  class="link2">Empreendedorismo</a></td>
+               <td id="celula1"><a href="ementas/empreendedorismo.php"  class="link2">Empreendedorismo</a></td>
                <td id="celula1"><a href="ementas/desenvolvimento2.php" class="link2" >Desenvolvimento Web II</a></td>
                <td id="celula1"><a href= "ementas/projeto2.php" class="link2">Projeto e Prática II</a></td>
             </tr>
