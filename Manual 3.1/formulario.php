@@ -190,10 +190,6 @@ include("menu.php");
       <td>Senha:*</td>
       <td><input name="senha" type="password" id="senha" maxlength="12" />
           <span class="style1"></span></td>
-    </tr>
-    <td>Cidade:*</td>
-    <td><input name="cidade" type="text" id="cidade" maxlength="20" />
-        <span class="style1"></span></td>
       
     <tr>
       <td colspan="2"><p>
