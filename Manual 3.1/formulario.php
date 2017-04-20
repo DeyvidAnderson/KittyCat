@@ -2,7 +2,7 @@
    <head>
       <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
       <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="style1.css">
+      <link rel="stylesheet" type="text/css" href="css/style1.css">
 <function validaCampo()
 {
 if(document.cadastro.nome.value==""){
@@ -78,7 +78,7 @@ else
                <li>Campus Igarassu</li>
             </ul>
              <form  class="formulario" method="POST" action="cadastro.php" >
-           <label>matrícula:</label><input type="text" name="matricula" id="matricula"><br>
+           <label>Matrícula:</label><input type="text" name="matricula" id="matricula"><br>
           <label>Senha:</label><input type="password" name="senha" id="senha"><br>
          <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"><br>
          <a href="formulario.php"  class ="link1">Cadastre-se</a>
@@ -190,6 +190,10 @@ include("menu.php");
       <td>Senha:*</td>
       <td><input name="senha" type="password" id="senha" maxlength="12" />
           <span class="style1"></span></td>
+    </tr>
+    <td>Cidade:*</td>
+    <td><input name="cidade" type="text" id="cidade" maxlength="20" />
+        <span class="style1"></span></td>
       
     <tr>
       <td colspan="2"><p>
@@ -205,6 +209,7 @@ include("menu.php");
 </form>
 </p>
       </section>
+
       <?php
       include("rodape.php");
       ?>

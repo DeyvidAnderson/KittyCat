@@ -15,5 +15,5 @@ $senha=$_POST['senha'];
 
 ?>
 <?php
-      include("index.php");
-      ?>
+      header("Location:index.php");
+ ?>
