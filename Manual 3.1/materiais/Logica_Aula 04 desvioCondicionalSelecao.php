@@ -14,8 +14,7 @@
 
 $a = 5;
 
-switch ($a)
-{
+switch ($a){
 	case 1:
 		echo "um";
 		break;
@@ -26,5 +25,4 @@ switch ($a)
 		echo "outro numero";
 		break;
 } 
-
 ?>
