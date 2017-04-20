@@ -78,7 +78,7 @@ else
                <li>Campus Igarassu</li>
             </ul>
              <form  class="formulario" method="POST" action="cadastro.php" >
-           <label>mateícula:</label><input type="text" name="matricula" id="matricula"><br>
+           <label>matrícula:</label><input type="text" name="matricula" id="matricula"><br>
           <label>Senha:</label><input type="password" name="senha" id="senha"><br>
          <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"><br>
          <a href="formulario.php"  class ="link1">Cadastre-se</a>
