@@ -4,6 +4,7 @@
       <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
       <meta charset="UTF-8">
       <link rel="stylesheet" type="text/css" href="../css/style1.css">
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
    </head>
    <body>
       <header class="topo">
@@ -99,13 +100,19 @@
                   ed. São Paulo: Makron Books, 2006.
                </td>
             </tr>
+
+               <tr>
+                  <th colspan="2" id="celula1">MATERIAIS DAS AULAS</th>
+                  </tr>
+               <tr>
+                  <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgS2tNOTR5STRwUGs">
+                  <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
+               </tr>
+               
+
+
          </table>
-         <br>
-           <h2>Materiais das Aulas</h2>
-
-          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina em Banco de Dados
-         <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgS2tNOTR5STRwUGs" class="link2">Clique Aqui</a></p>
-
+         
 
       </section>
      <?php

@@ -245,12 +245,16 @@ include("../menu.php");
                   2. CARISSIMI, Alexandre da Silva; ROCHOL Juergen; e GRANVILLE, Lisandro Z. Redes de computadores. São Paulo: Bookman, 2009.
                </td>
             </tr>
-         </table>
-         <br>
-            <h2>Materiais das Aulas</h2>
 
-          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina de Redes em computadores.
-         <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgOU9pelFsMHVPWDg" class="link2">Clique Aqui</a></p>
+             <tr>
+                  <th colspan="2" id="celula1">MATERIAIS DAS AULAS</th>
+                  </tr>
+               <tr>
+                  <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgOU9pelFsMHVPWDg">
+                  <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
+               </tr>
+
+         </table>
       </section>
      <?php
       include("../rodape.php");

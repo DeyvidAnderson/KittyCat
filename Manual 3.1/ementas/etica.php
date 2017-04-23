@@ -116,14 +116,16 @@ include("../menu.php");
                   São Paulo: Campus, 2003.
                </td>
             </tr>
+
+            <tr>
+                  <th colspan="2" id="celula1">MATERIAIS DAS AULAS</th>
+                  </tr>
+               <tr>
+                  <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgemR0cS1KcnhXWFU">
+                  <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
+               </tr>
+
          </table>
-         <br>
-         <h2>Materiais das Aulas</h2>
-
-          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina de Ética Profissional
-         <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgemR0cS1KcnhXWFU" class="link2">Clique Aqui</a></p>
-
-
       </section>
        <?php
       include("../rodape.php");

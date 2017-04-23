@@ -94,14 +94,17 @@ include("../menu.php");
                   3. REIS, Genésio Lima; SILVA, Valdir Vilmar. Geometria Analítica. 2 ed.. Editora LTC. (8).
                </td>
             </tr>
+
+                  <tr>
+                  <th colspan="2" id="celula1">MATERIAIS DAS AULAS</th>
+                  </tr>
+               <tr>
+                  <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWganQxczVIU0RQLUE">
+                  <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
+               </tr>
+
          </table>
-         <br>
-
-        <h2>Materiais das Aulas</h2>
-
-          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina de Matemática Aplicada
-          <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWganQxczVIU0RQLUE" class="link2">Clique Aqui</a></p>
-
+         
       </section>
       <?php
       include("../rodape.php");

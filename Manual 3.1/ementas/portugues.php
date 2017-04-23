@@ -130,12 +130,18 @@ include("../menu.php");
                   3. MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. Planejar gêneros acadêmicos. São Paulo: Parábola Editorial, 2005.
                </td>
             </tr>
-         </table>
-         <br>
-         <h2>Materiais das Aulas</h2>
+               
+               <tr>
+                  <th colspan="2" id="celula1">MATERIAIS DAS AULAS</th>
+                  </tr>
+               <tr>
+                  <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgSzZKazFJSVl6OFE">
+                  <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
+               </tr>
 
-          <p align="center">Caso você deseje acessar os materias disponibilizados em sala de aula pelo professsor da disciplina de Português instrumental
-         <a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgSzZKazFJSVl6OFE" class="link2">Clique Aqui</a></p>
+
+         </table>
+        
 
       </section>
      <?php
