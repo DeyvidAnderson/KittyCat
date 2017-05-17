@@ -7,18 +7,10 @@
       <link rel="stylesheet" type="text/css" href="../css/style1.css">
    </head>
    <body>
-      <header class="topo">
-         <div class= "menu">
-            <ul>
-               <li>IFPE</li>
-               <h1 class ="portal" ><a  href="http://www.ifpe.edu.br" class ="link1">Instituto Federal  de Pernambuco</a></h1>
-               <li>Campus Igarassu</li>
-            </ul>
-         </div>
-        </header>
+     
         
          <?php
-include("../menu.php");
+include("../header.php");
 ?>
       <section>
          <h1> Fundamentos da Informática</h1>
@@ -95,7 +87,7 @@ include("../menu.php");
          </table>
       </section>
        <?php
-      include("../rodape.php");
+      include("../footer.php");
       ?>
    </body>
 </html>

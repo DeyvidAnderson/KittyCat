@@ -7,18 +7,10 @@
       <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
    </head>
    <body>
-      <header class="topo">
-         <div class= "menu">
-            <ul>
-               <li>IFPE</li>
-               <h1 class ="portal" ><a  href="http://www.ifpe.edu.br" class ="link1">Instituto Federal  de Pernambuco</a></h1>
-               <li>Campus Igarassu</li>
-            </ul>
-         </div>
-        </header>
+     
         
          <?php
-          include("../menu.php");
+          include("../header.php");
          ?>
       <section>
          <h1>Banco de Dados</h1>
@@ -116,7 +108,7 @@
 
       </section>
      <?php
-          include("../rodape.php");
+          include("../footer.php");
          ?>
 
    </body>
