@@ -37,8 +37,7 @@ include("header.php");
            <a href="https://drive.google.com/open?id=0B-3_TsDjImY0TWZrVVpoWWJSYXc" class="link2">Aqui</a></td>
           </tr>
           <tr>
-           <td> Agora importe o arquivo sql e salve em seu servidor, onde nele está inserido o usuario e a senha de mediawiki ;
-        vá no browser e digite o caminho em que sua pasta foi salva  e vai aparecer a nossa wiki.
+           <td> Vá no browser e digite o caminho em que sua pasta foi salva  e vai aparecer a nossa wiki.
               
            </td>
           </tr>
