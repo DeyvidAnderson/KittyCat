@@ -11,7 +11,7 @@
     <h1 class ="portal" ><a  href="http://www.ifpe.edu.br" class ="link1">Instituto Federal  de Pernambuco</a></h1>
     <li>Campus Igarassu</li>
   </ul>
-  <form  id="formulario" method="POST" action="cadastro.php" >
+  <form  class="formulario" method="POST" action="cadastro.php" >
     <label>Matrícula:</label><input type="text" name="matricula" id="matricula"><br>
     <label>Senha:</label><input type="password" name="senha" id="senha"><br>
     <input type="submit" value="Entrar" id="entrar" name="entrar"><br>
