@@ -14,16 +14,17 @@
              <form  class="formulario" method="POST" action="cadastro.php" >
            <label>Matrícula:</label><input type="text" name="matricula" id="matricula"><br>
           <label>Senha:</label><input type="password" name="senha" id="senha"><br>
-         <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"><br>
-         <a href="formulario.php"  class ="link1">Cadastre-se</a>
+         <input type="submit" value="Entrar" id="entrar" name="entrar"><br>
+         <a href="./formularios/formulario.php"  class ="link1">Cadastre-se</a>
           </form>
          </div>
 </header>
 <div id="opcoes">
-
-  <a href='index.php'>Inicio</a>
-  <a href='tutoriais.php'>Tutoriais</a>
-  <a href='wiki.php'>Mediawiki</a>
+<ul>
+ <li><a href='index.php'>Inicio</a></li>
+ <li><a href='tutoriais.php'>Tutoriais</a></li>
+ <li><a href='wiki.php'>Mediawiki</a></li>
+</ul>
 </div>
 
 </body>

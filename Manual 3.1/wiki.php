@@ -28,13 +28,13 @@ include("header.php");
         <table>
         <tr>
            <td>Para usar a mediawiki você tem que baixar o arquivo que pode ser acessado:
-                  <a href="https://drive.google.com/drive/folders/0B-3_TsDjImY0Tm9UQjhqSVpkU1U?usp=sharing" class="link2">Aqui</a></td>
+                  <a href="https://drive.google.com/drive/folders/0B-3_TsDjImY0Y2Y1a3h1ZlNoTnM?usp=sharing" class="link2">Aqui</a></td>
             </tr>
 
           <tr>
            <td>Após ele ser baixado descompacte e salve no diretorio raiz do seu servidor o htdocs;
-           crie uma base de dados e baixe o arquivo wiki.sql que pode ser acessado:
-           <a href="https://drive.google.com/open?id=0B-3_TsDjImY0TV9BNmpDQXltb28" class="link2">Aqui</a></td>
+           crie uma base de dados  com o nome media_wiki e baixe o arquivo media_wiki.sql  e compacte para importar em sua base de dados que pode ser acessado:
+           <a href="https://drive.google.com/open?id=0B-3_TsDjImY0TWZrVVpoWWJSYXc" class="link2">Aqui</a></td>
           </tr>
           <tr>
            <td> Agora importe o arquivo sql e salve em seu servidor, onde nele está inserido o usuario e a senha de mediawiki ;
