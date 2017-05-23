@@ -1,8 +1,8 @@
 *{
-   margin:0;
-   padding:0;
+ margin:0;
+ padding:0;
  }
- .topo{
+ header{
    width:66%;
    padding-left:17%;
    padding-right:17%;
@@ -10,16 +10,16 @@
    background:#137b25;
    box-shadow: #00420c;
  }
- .menu{
+ .cabecalho{
    color:#fff;
    margin:0px;
  
  }
- .menu ul{
+ .cabecalho ul{
    
    
  }
- .menu ul li{
+ .cabecalho ul li{
   display:list-item;
   font-family: "open_sansextrabold", Arial, Helvetica, sans-serif;
   color:#fff;
@@ -103,7 +103,7 @@
  display:none;
  
  }
- #opcoes li:hover ul, .menu li.over ul{display:block;}
+ #opcoes li:hover ul, .cabecalho li.over ul{display:block;}
  #opcoes  li ul li{
  border:1px solid #00420c;; 
  display:block; 
@@ -115,7 +115,7 @@
    margin-left:auto;
    margin-right: auto;
    
-   margin-bottom: 10px;
+   margin-bottom: 10%;
   
    
    
@@ -184,57 +184,52 @@
    #celula2  {
    text-decoration: none;
    color:#ccc;
- }
- #celula1 a:hover {
+}
+#celula1 a:hover {
+color:black;
+}
+table, tr, td.disciplinas{
+border: 2px solid green;
+margin: auto;  
+border-collapse: collapse;
+text-align:center;
+font-size:16px;
+}
+.cadastro{
+border: 2px solid white;
+margin: auto;
+border-collapse: collapse;
+text-align:center;
+font-size:16px;
+}
+.materiais{
+text-align: center;
+font-size: 35px;
+}
+a.link2:link{
+color:black;
+text-decoration:none;
+}
+a.link2:visited{
+color:black;
+text-decoration:none;
    
-   color:black;
- }
- table, tr, td.disciplinas{
-   border: 2px solid green;
-    margin: auto;
-  
-   border-collapse: collapse;
-   text-align:center;
-   font-size:16px;
- }
- .cadastro{
-   border: 2px solid white;
-    margin: auto;
-  
-   border-collapse: collapse;
-   text-align:center;
-   font-size:16px;
- }
- .materiais{
-   text-align: center;
-   font-size: 35px;
- }
- a.link2:link{
-   color:black;
-   text-decoration:none;
- }
- a.link2:visited{
-   color:black;
-   text-decoration:none;
-   
- }
- a.link2:hover{
-   font-weight: bold;
-   color:black;
-   text-decoration:underline;
-   
- }
+}
+a.link2:hover{
+font-weight: bold;
+color:black;
+text-decoration:underline;
+}
  a.link2:active{
  color:black;
  text-decoration:underline;
  }
-#footer{
-  
+footer{
 position: fixed;
-bottom: 0;
-right: 0;
+left: 0;
 width: 100%;
-border: 5px solid #00420c;
+height: 10%;
+top: 90%;
 background:#00420c;
   
 }

@@ -1,21 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>cadastro</title>
-	<link rel="stylesheet" type="text/css" href="../css/style1.css">
-  <link rel="stylesheet" type="text/css" href="../css/style2.css">
-</head>
-<body>
-
-        
-  <?php
-    include("../header.php");
-   ?>
+<?php
+    include("header.php");
+?>
 <section>
 
   <h2 align="center" id="cadastro">Cadastro de Alunos</h2>
 
-   <form action="processa.php" method="POST">
+   <form action="/formularios/processa.php" method="POST">
      <label>Nome:<input  type="text" name="nome" id="nome" placeholder="Nome"></label><br>
      <label>Data de Nascimento:<input type="date" name="data_de_nascimento" id="data_de_nascimento" placeholder="Data de nascimento"></label><br>
      <label>Matrícula:<input type="text" name="matricula" id="Matricula" placeholder="Matrícula"></label><br>
@@ -26,7 +16,7 @@
     </form>
 </section>    
 <?php
-   include("../footer.php");
+   include("footer.php");
 ?>
 
 </body>
