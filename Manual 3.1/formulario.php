@@ -5,7 +5,7 @@
 
   <h2 align="center" id="cadastro">Cadastro de Alunos</h2>
 
-   <form action="/formularios/processa.php" method="POST">
+   <form action="./formularios/processa.php" method="POST">
      <label>Nome:<input  type="text" name="nome" id="nome" placeholder="Nome"></label><br>
      <label>Data de Nascimento:<input type="date" name="data_de_nascimento" id="data_de_nascimento" placeholder="Data de nascimento"></label><br>
      <label>Matrícula:<input type="text" name="matricula" id="Matricula" placeholder="Matrícula"></label><br>

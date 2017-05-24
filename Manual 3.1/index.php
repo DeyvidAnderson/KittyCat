@@ -4,27 +4,30 @@ include("header.php");
         
       <section>
          <h1>Manual do Estudante</h1>
-         <h3>Matrícula</h3>
+
+
+      
+         <h3 a name="Matricula">Matrícula</h3>
          <p>O período da matrícula dos candidatos classificados em processo de seleção será publicado em edital especifico e a matrícula  será efetuada pela codernação
             do registro acadêmico  dos campi equivalentes.Os candidatos classificados em processo de seleção serão matrículados  obrigatoriamente em todos os componentes
             curriculares do módulo  e programado para o 1° período  letivo.
          </p>
-         <h3>Trancamento de Matrícula</h3>
+         <h3 a name="trancamento">Trancamento de Matrícula</h3>
          <p>O estudante regulamente matrículado no curso do IFPE será concedido o trancamento de matrícula do curso quando solicitado através de requerimento dirigido a Direção
             de Ensino.O trancamento  de matrícula  deverá ser efetivado no período  definido  no calendário acadêmico de cada campus  , exceto  em casos excepcionais devidamente 
             comprovados , a serem autorizados pela Direção de Ensino.O transcamentos de matrícula do curso ou de componente  curricular do estudante menor de idade  só poderá
             ser realizado por seu responsável legal.O prazo concedido para o trancamento do curso  do IFPE de forma contínua ou alternada , não poderá ultrapassar 2(dois)anos.
          </p>
-         <h3>Transfêrencia de Estudantes</h3>
+         <h3 a name="transferencia">Transfêrencia de Estudantes</h3>
          <p>O IFPE expedirá a transferência  do estudante para outras instituições de ensino,mediante requerimento,em qualquer época do ano .A solicitação de transfrência deverá 
             ser feita pelo estudante  maior de idade  ou pelo representante  legal do estudante menor de idade.
          </p>
-         <h3>Da Integralização  ao Jubilamento</h3>
+         <h3 a name="jubilamento">Da Integralização  ao Jubilamento</h3>
          <p>O prazo minímo de Integralização  será estabelecido  no projeto pedagógico do curso  e o prazo máximo correspondente a 5(cinco)anos, conforme legislação vigente.<br>
             O jubilamento  é o desligamento do estudante da Instituição por meio de recusaa da matrícula acadêmica do estudante no curso ao qual será vinculado.O jubilamento será
             efetivado , quando o esgotado o prazi máximo de integralização do curso , conforme estabelecido pela legislação pertinentte e nos termos desta Organização Acadêmica.
          </p>
-         <h3>Da Ausência Justificada</h3>
+         <h3 a name="justificativa" a name="faltas">Da Ausência Justificada</h3>
          <p>Será permitida ao estudante requerer, por escrito no Registro Acadêmico e em um formulário próprio , justificativa de ausência em atividade acadêmca no prazo de 05(cinco)dias úteis após a data do afastamento desde que fique comprovado o impedimento do estudante por um dos seguintes motivos:</p>
          <ol class="lista">
             <li>Serviço militar;</li>
@@ -36,13 +39,13 @@ include("header.php");
             <li>Convocação judicial;</li>
             <li>Força maior.</li>
          </ol>
-         <h3>Da Aprovação</h3>
+         <h3 a name="aprovacao">Da Aprovação</h3>
          <p>Estará bem aprovado no curso ,o estudante que obtiver frequência igual ou superior a 75%  em cada componente  curricular e média 6,0 (seis) em cada componente curricular que acompanha  a matriz do curso.</p>
-         <h3>Exames Finais</h3>
+         <h3 a name="exames_finais">Exames Finais</h3>
          <p>Terá o direito de realizar o exame final o estudante  que obtiver , no mínimo  média 2,0(dois) e frequência igual ou superior a 75%  no cômputo de carga horária  total dos componentes curriculares.Será considerado aprovado , após os exames finais . o estudante  cuja média aritmética final for igual ou superior a 6,0(seis). </p>
          <img src="http://i63.tinypic.com/295u3dg.jpg" align="center">
          <div class="horarios">
-            <h3 clas="horarios">Horários</h3>
+            <h3 clas="horarios" ><a name="horarios">Horários</a></h3>
          </div>
          <h4>INFORMÁTICA 1°-TARDE-SALA 01</h4>
          <br> 
