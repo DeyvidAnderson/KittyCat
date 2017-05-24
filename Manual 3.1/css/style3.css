@@ -70,7 +70,7 @@
   transition: 0.3s ease-out;
 }
 
-#horarios{
+#duvidas{
 
  
     border-radius: 50%;
@@ -81,7 +81,8 @@
     text-align: center;
     font-size: 20px;
     color: #FFFFFF;
-    position: absolute;  left: 1100px;
+    position: absolute;  
+    left: 1100px;
     top: 200px;
     height:200px;
     width: 200px;
@@ -90,13 +91,49 @@
     box-shadow: inset -10px -10px 10px DarkGreen , inset 3px 3px 5px DarkGreen;
 }
 
- #horarios:hover {
+ #duvidas:hover {
   position: absolute;
   padding: 5px;
   padding-left: 30px;
   padding-top: 30px;
   left: 1100px;
   top: 200px;
+  margin: 1em 0 3em;
+  color: #FFFFFF;
+  background: green;
+
+  -webkit-transition: 0.3s ease-out;
+  -moz-transition: 0.3s ease-out;
+  -o-transition: 0.3s ease-out;
+  transition: 0.3s ease-out;
+}
+
+#horarios {
+ 
+    border-radius: 50%;
+    display: inline-block;
+    line-height:100px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    position: absolute;  
+    left: 1220px;
+    top: 190px;
+    height:100px;
+    width: 100px;
+    border: 1px solid green ;
+    background-color: green ;
+    box-shadow: inset -10px -10px 10px green , inset 3px 3px 5px green ;
+}
+
+ #horarios:hover {
+  position: absolute;
+  padding: 5px;
+  padding-left: 30px;
+  padding-top: 30px;
+  left: 1220px;
+  top: 190px;
   margin: 1em 0 3em;
   color: #FFFFFF;
   background: green;

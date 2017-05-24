@@ -4,7 +4,47 @@ include("header.php");
         
       <section>
          <h1>Manual do Estudante</h1>
+      
 
+         <div id="avaliacoes"  >
+            <a class="link2" a href="#avaliacoes">Avaliações</a>
+         </div>
+
+         <div id="matricula" >
+           <a class="link2" a href="#Matricula">Matrículas</a>
+         </div>
+
+         <div id="duvidas" >
+            <a class="link2" a href="#duvidas">Duvidas</a>
+         </div>
+
+         <div id="frequencia">
+            <a class="link2" a href="#frequencias">Frequencias</a>
+         </div>
+
+         <div id="notas">
+            <a class="link2" a href="#notas">Notas</a>
+         </div>
+
+         <div id="trancamento">
+            <a class="link2" a href="#trancamento">Trancamento</a>
+         </div>
+
+         <div id="faltas">
+            <a class="link2" a href="#faltas">Faltas</a>
+         </div>
+
+         <div id="jubilamento">
+            <a class="link2" a href="#jubilamento">Jubilamento</a>
+         </div>
+
+         <div id="transferencia">
+            <a class="link2" a href="#transferencia">Transferencia</a>
+         </div>
+         
+         <div id="horarios">
+            <a class="link2" a href="#horarios">Horarios</a>
+         </div>
 
       
          <h3 a name="Matricula">Matrícula</h3>

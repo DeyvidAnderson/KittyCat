@@ -1,14 +1,4 @@
 
-
-<html>
-   <head>
-      <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
-      <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="../css/style1.css">
-   </head>
-   <body>
-     
-        
          <?php
 include("../header.php");
 ?>
@@ -128,6 +118,3 @@ include("../header.php");
        <?php
       include("../footer.php");
       ?>
-   </body>
-</html>
-

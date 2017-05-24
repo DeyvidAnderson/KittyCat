@@ -1,15 +1,4 @@
-
-<html>
-   <head>
-      <title>IFPE-IFPE Instituto Federal de Pernambuco</title>
-      <meta charset="UTF-8">
-      <link rel="stylesheet" type="text/css" href="../css/style1.css">
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-   </head>
-   <body>
-     
-        
-         <?php
+       <?php
           include("../header.php");
          ?>
       <section>
@@ -100,9 +89,6 @@
                   <td colspan="2" id="celular1">Download<a href="https://drive.google.com/drive/folders/0B3YM51nGTGWgS2tNOTR5STRwUGs">
                   <img src="http://i65.tinypic.com/23ti93p.jpg"></a></td>
                </tr>
-               
-
-
          </table>
          
 
@@ -110,7 +96,4 @@
      <?php
           include("../footer.php");
          ?>
-
-   </body>
-</html>
 
