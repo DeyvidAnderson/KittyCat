@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: 16-Maio-2017 às 01:56
+-- Generation Time: 26-Maio-2017 às 02:58
 -- Versão do servidor: 10.1.21-MariaDB
 -- PHP Version: 5.6.30
 
@@ -36,17 +36,6 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Extraindo dados da tabela `user`
---
-
-INSERT INTO `user` (`id`, `nome`, `data_de_nascimento`, `matricula`, `email`, `senha`) VALUES
-(25, 'MARIA', '2017-05-16', '234', 'amandaisabel237@gmail.com', 'projeto12345A'),
-(26, 'ISABEL', '2017-05-17', '123', 'aa.castro031@gmail.com', 'projeto12345S'),
-(27, 'ALMEIDA', '2017-05-24', 'ASD23', 'afc.transporte@hotmail.com', 'projeto12345F'),
-(28, 'CASTRO', '2017-05-18', '4567', 'aliceali31@hotmail.com', 'projeto12345JK'),
-(29, 'FCDF', '2017-06-01', 'ADDF555', 'aliceali31@hotmail.com', 'projeto12345');
-
---
 -- Indexes for dumped tables
 --
 
@@ -65,7 +54,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=32;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=57;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

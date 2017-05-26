@@ -7,43 +7,43 @@ include("header.php");
       
 
          <div id="avaliacoes"  >
-            <a class="link2" a href="#avaliacoes">Avaliações</a>
+            <a  class ="link1" a href="#exames_finais">Avaliações</a>
          </div>
 
          <div id="matricula" >
-           <a class="link2" a href="#Matricula">Matrículas</a>
+           <a  class ="link1" a href="#Matricula">Matrículas</a>
          </div>
 
          <div id="duvidas" >
-            <a class="link2" a href="#duvidas">Duvidas</a>
+            <a  class ="link1" a href="#duvidas">Duvidas</a>
          </div>
 
          <div id="frequencia">
-            <a class="link2" a href="#frequencias">Frequencias</a>
+            <a  class ="link1" a href="#frequencias">Frequencias</a>
          </div>
 
          <div id="notas">
-            <a class="link2" a href="#notas">Notas</a>
+            <a  class ="link1" a href="#notas">Notas</a>
          </div>
 
          <div id="trancamento">
-            <a class="link2" a href="#trancamento">Trancamento</a>
+            <a  class ="link1" a href="#trancamento">Trancamento</a>
          </div>
 
          <div id="faltas">
-            <a class="link2" a href="#faltas">Faltas</a>
+            <a  class ="link1" a href="#faltas">Faltas</a>
          </div>
 
          <div id="jubilamento">
-            <a class="link2" a href="#jubilamento">Jubilamento</a>
+            <a  class ="link1" a href="#jubilamento">Jubilamento</a>
          </div>
 
          <div id="transferencia">
-            <a class="link2" a href="#transferencia">Transferencia</a>
+            <a  class ="link1" a href="#transferencia">Transferencia</a>
          </div>
          
          <div id="horarios">
-            <a class="link2" a href="#horarios">Horarios</a>
+            <a  class ="link1" a href="#horarios">Horarios</a>
          </div>
 
       
@@ -67,7 +67,7 @@ include("header.php");
             O jubilamento  é o desligamento do estudante da Instituição por meio de recusaa da matrícula acadêmica do estudante no curso ao qual será vinculado.O jubilamento será
             efetivado , quando o esgotado o prazi máximo de integralização do curso , conforme estabelecido pela legislação pertinentte e nos termos desta Organização Acadêmica.
          </p>
-         <h3 a name="justificativa" a name="faltas">Da Ausência Justificada</h3>
+         <h3  a name="faltas">Da Ausência Justificada</h3>
          <p>Será permitida ao estudante requerer, por escrito no Registro Acadêmico e em um formulário próprio , justificativa de ausência em atividade acadêmca no prazo de 05(cinco)dias úteis após a data do afastamento desde que fique comprovado o impedimento do estudante por um dos seguintes motivos:</p>
          <ol class="lista">
             <li>Serviço militar;</li>
@@ -79,13 +79,13 @@ include("header.php");
             <li>Convocação judicial;</li>
             <li>Força maior.</li>
          </ol>
-         <h3 a name="aprovacao">Da Aprovação</h3>
+         <h3 a name="notas">Da Aprovação</h3>
          <p>Estará bem aprovado no curso ,o estudante que obtiver frequência igual ou superior a 75%  em cada componente  curricular e média 6,0 (seis) em cada componente curricular que acompanha  a matriz do curso.</p>
          <h3 a name="exames_finais">Exames Finais</h3>
          <p>Terá o direito de realizar o exame final o estudante  que obtiver , no mínimo  média 2,0(dois) e frequência igual ou superior a 75%  no cômputo de carga horária  total dos componentes curriculares.Será considerado aprovado , após os exames finais . o estudante  cuja média aritmética final for igual ou superior a 6,0(seis). </p>
          <img src="http://i63.tinypic.com/295u3dg.jpg" align="center">
          <div class="horarios">
-            <h3 clas="horarios" ><a name="horarios">Horários</a></h3>
+            <h3 a name="horarios" class="horarios" >Horários</h3>
          </div>
          <h4>INFORMÁTICA 1°-TARDE-SALA 01</h4>
          <br> 

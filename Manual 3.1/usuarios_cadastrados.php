@@ -2,7 +2,7 @@
 $dbName = 'cadastro';
  $host = 'localhost';
  $user = 'root';
- $dsn = "mysql:dbname=$dbName;host=$host;port=13306";
+ $dsn = "mysql:dbname=$dbName;host=$host";
  $pdo = new PDO($dsn, $user);
  $ret = $pdo->query("SELECT * FROM user");
 

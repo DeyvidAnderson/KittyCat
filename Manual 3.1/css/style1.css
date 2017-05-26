@@ -6,7 +6,7 @@
    width:66%;
    padding-left:17%;
    padding-right:17%;
-   height:20%;
+   height: 121px;
    background:#137b25;
    box-shadow: #00420c;
  }
@@ -224,13 +224,26 @@ text-decoration:underline;
  color:black;
  text-decoration:underline;
  }
+[class^="fa-"]:before {
+  content: " ";
+  width:10px; height:10px;
+  display:inline-block;
+  vertical-align:middle;
+  position: right;
+}
 footer{
 position: fixed;
 left: 0;
 width: 100%;
-height: 10%;
-top: 90%;
+height: 30%;
+top: 80%;
 background:#00420c;
+color:#fff;
+width:66%;
+padding-left:17%;
+padding-right:17%;
+font-family: inherit;
+font-size: 18px;
   
 }
   

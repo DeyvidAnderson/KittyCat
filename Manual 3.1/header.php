@@ -2,7 +2,9 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="./css/style1.css">
+<link rel="stylesheet" type="text/css" href="../css/style1.css">
 <link rel="stylesheet" type="text/css" href="./css/style2.css">
+<link rel="stylesheet" type="text/css" href="../css/style2.css">
 <link rel="stylesheet" type="text/css" href="./css/style3.css">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <title>IFPE-Manual do Aluno</title>
@@ -16,7 +18,7 @@
     <li>Campus Igarassu</li>
   </ul>
   <form  class="formulario" method="POST" action="cadastro.php" >
-    <label>Matrícula:</label><input type="text" name="matricula" ><br>
+    <label>Matrícula:</label><input type="text" name="matricula"><br>
     <label>Senha:</label><input type="password" name="senha" id="senha"><br>
     <input type="submit" value="Entrar" id="entrar" name="entrar"><br>
     <a href="formulario.php"  class ="link1">Cadastre-se</a>
